@@ -1,0 +1,22 @@
+
+.Main
+    {
+        background-color:rgb(74, 21, 173);
+        color:white;
+        padding:50px;
+    }
+
+
+.Purple
+    {
+        background-color:rgb(100, 52, 211);
+        color:white;
+        padding:50px;
+    }
+
+#Purple
+    {
+        background-color:rgb(194, 141, 238);
+        color:rgb(29, 10, 54);
+        padding:50px;
+    }
